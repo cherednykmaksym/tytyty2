@@ -6,4 +6,4 @@ print('mss')
 
 print('mss')
 
-svir = "Kross"
+masha = "Kross"
